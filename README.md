@@ -272,5 +272,127 @@ CRITICAL DATA ACQUISITION REQUIRED FOR MAINTAINING QUALITY PATIENT CARE
 
    * Finally, survival experiments are driven by the core values of healthy (non-pathological) human beings. Because of this they have a dual value. First, they provide a powerful incentive for each person participating to their job well and to learn to do it better. Related to this is the understanding which, if not present before the experiment, is painfully present afterwards in the event of failure, that errors cost lives, create terrible and visible tissue/organ injury and can cause immense suffering. Second, such experiments invariably disclose individuals who are either lack the required temperament (too sensitive), are constitutionally incompetent, habitually careless, or suffer from some type of psychopathology – all which disqualify them as Cryopreservation Team members.
 
+### Part 2
+
+ * Stop misleading and deceiving the membership and the public by calling the treatment on offer “vitrification”. Vitrification, in the context of cryobiology and cryonics, means the ice-free preservation of tissues, organs or people. Alcor’s own published CT scans, with one or two possible exceptions, show widespread ice formation in the brains of its patients, even when the treatment takes place under optimum conditions. The Cryonics Institute has never produced any evidence that its patents’ brains, let alone bodies are vitrifying.
+
  
+
+ * Stop presenting animal research that purports to show good brain preservation by the treatment being used on humans when that research was not conducted on applicable animal models. For instance, the Transmission Electron Micrographs (TEMs) shown on the Alcor and CI websites were obtained from healthy, living animals under ideal laboratory conditions that do not pertain to any cryonics patient. All cryonics patients will necessarily have experienced significant periods of warm and cold ischemia, with most having experienced many minutes to many hours of both. In addition, many will have had some period of agonal shock during which hypoxia and ischemia of varying degrees will have occurred before medicolegal death.
+
+ 
+
+   * Evidence of the efficacy of cryonics treatment procedures should come from animal models that reflect the advanced age, ill health, agonal shock and warm and cold ischemia in every class of patient the organization proposes to treat.
+
+ 
+
+   * Similarly, there should be TEM and preferably focused ion beam tomography on brain tissue from both animals and patients subjected to varying periods of ischemia and straight freezing to simulate situations where there is a long postmortem delay, delayed or absent refrigeration, autopsy and so on. Members and patients have the right to something more than a “black box” of hope that depends upon the technological achievements and largesse of purported superior future beings, often referred to as “transhumans”.
+
+ 
+
+   * above all treatments offered should be validated in relevant animal models and backed up with appropriate laboratory, clinical and electron microscopic data obtained for each patient subjected to the treatment. What this means is that the treatment to be given should be demonstrated to meet its a priori specifications in a specified animal model using the personnel, techniques and facilities that the cryonics organization uses on its human patients. Put more simply, “If we do this under these conditions with our personnel and facilities, we get this result XX% of the time.
+
+ 
+
+ * These data must be prepared to the same standard and in the same manner as peer-reviewed biomedical papers and published and updated to reflect any changes in the clinical (human) protocol, as well as additional findings as may be necessary.
+
+ 
+
+ * All biomedical personnel must be adequately trained and certified in order to participate in human cryopreservations. This means the creation of a training and certification program for each phase of the cryopreservation procedure including, but not limited to: interface with the terminal patient, his family and medical care givers, standby for acute stabilization, stabilization (cardiopulmonary support, drug administration, induction of hypothermia, blood washout and/or ECMO, etc.), safe transportation to the cryonics facility, cryoprotective perfusion, cool-down to storage temperature and long term storage. Such training must include extensive didactic and hands-on training with appropriate testing and evaluation to establish that the required knowledge and skills have been mastered.
+
+ 
+
+ * The knowledge and skills of the personnel employed in clinical cryopreservation must be maintained with regular continuing education and training employing live animals and employing validation by the pre-specified technologies the organization uses to represent its outcomes to its members and to the public.
+
+ 
+
+   * Reversible (survivable) parts of the cryopreservation must be validated on an ongoing basis using an appropriate survival animal model.
+
+ 
+
+ * Since each clinical case constitutes an experimental biomedical procedure it must documented, by video and other data recording and reduced a written case report in a comprehensive, consistent and standardized format. Such case reports must be openly published by the cryonics organization. Such reports must be completed and published not to exceed the prespecified deadline set by the organization.
+
+ 
+
+ * Since human cryopreservation is marketed as an experimental, potentially lifesaving treatment, it must adhere to the reasonable requirements of other medical research. This means that a defined treatment is given under reasonably consistent conditions with continuous surveillance of the procedure to identify deviations from protocol, evidence of harm and the response of the patient to all treatments or interventions that are applied
+
+ 
+
+   * Cryonics, as currently practiced, cannot meet these requirements since it has no exclusion or inclusion criteria. In effect, cryonics accepts “all comers”, including individuals in advanced states of decomposition, who have been autopsied or who are otherwise amenable only to refrigeration to arrest further decomposition. It is suggested that if cryonics organizations wish to cryopreserve such individuals that they a create distinct subsidiary organization that offers cryopreservation as a cosmetic preservative procedure, with no attached implication of it being in any way a scientific undertaking, and with absolutely no implication or intimation that revival of the person so treated will eventuate.
+
+ 
+
+ * All cryonics organizations must accurately and fairly represent the true cost of their procedures. For instance, there is no evidence that any Cryonics Institute (CI’s) member-patient has ever expired on CI’s doorstep with death certificate and burial-transit permit in hand (not to mention being packed in ice). CI is aware of the essential services not covered in its advertised $28,000 price tag for their treatment. Necessarily refrigeration, removal, transportation of the patient and the securing of the necessary paperwork will add a variable number of thousands of dollars to the cost of the procedure which should be made clear by providing a realistic price range for US clients. The typical member making arrangements with CI will not typically pay $28,000 and in fact, even under the best of circumstances if not located in the Detroit Metro area, will pay on the order of a 25% more.
+
+ 
+
+ * Establish a comprehensive informed consent document (book) which describes in detail each aspect of the procedure, its (range of) costs and its risks and benefits. Members should be made to understand, as just one example, the limitations of CPR in providing adequate blood-flow, the attendant complications such as pulmonary edema and bleeds, how its efficacy is dynamically evaluated (capnography) and what the typical outcome will be. The document should ensure that patients understand the basic mechanics, hazards and possible benefits of each procedure performed on them
+
+ 
+
+   * Every member must be individually counseled by trained cryonics organization personnel to ensure that informed consent has been obtained. This counseling session(s) must be video recorded and placed into the members’ cryopreservation documentation file and ultimately become a part of his cryopreservation records
+
+ 
+
+   * Instead of spending hundreds of thousands of dollars on marketing and on promotional videos such money would be better spent on educational videos making the informed consent process more accessible and user friendly.
+
+ 
+
+ * Create and maintain segregated funding that is adequate to provide for the long-term care of all the organization’s patients. This fund should be independent of the public-dealing, business aspects of the organization in order to serve as protection against ruinous litigation. The amount of money required as a minimum per patient should be calculated by reasonable and responsible methods taking into account all current required expenditures, inflation and the potential for unknown future costs.
+
+ 
+
+ * Create a comprehensive regulatory framework which is applied both within the organization and outside of it. This regulatory framework should be submitted to the legislature of the state where the cryonics organization is located in order to create a state board for oversight and for punitive measures when negligence or misconduct occurs. Be prepared to pay the costs of this oversight and to incorporate said costs in charges to members and patients. This would be an example of an initially “unforeseen” contingency in cryonics. Sooner or later cryonics will be regulated and with such regulation will come added costs.
+
+ 
+
+ * Make management transparent to members. The reality is that very little of Board business is required to be conducted in camera. Vice thrives in the dark. It is very unlikely that there would have been serious board discussions about switching whole-body members to neuro without their consent had these discussions been held in the sunlight. Transparent Board meetings also expose the quality of management and of its decisions to ongoing scrutiny by the membership.
+
+ 
+
+   * Ostensibly Alcor is a biomedical research organization administering an experimental treatment, rather than a business competing with other businesses for a market share of experimental subjects.
+
+ 
+
+   * Cryonics is not a business undertaking like selling toasters, automobiles or life insurance. It is not a developed product that can be sold to the masses as a package deal for a monthly fee. Unlike developed products, it is riddled with grave uncertainties, is technically complex, impacts public health and individual psychological, emotional and familial wellbeing and has enormous potential to provoke public outrage if done improperly. Perhaps most importantly it has no clear temporal endpoint. It proposes to maintain human beings in uninterrupted cryogenic care over a period of centuries and then restore them to health and revive them. That is an unprecedent and fantastical proposition in the context of today’s business and commercial environment. The late Carl Sagan famously said that “extraordinary claims require extraordinary proof”. Similarly, cryonics is an extraordinary undertaking (to say the least) and as such it requires extraordinary precautions to safeguard it and to make its mission both credible and feasible.
+
+ 
+
+ * As an experimental treatment cryonics is not a religious, philosophical, social, political or other enterprise advocating for any given ideology. As such, it should disconnect itself from the dissemination and promotion of specific social, economic or political ideologies. While a majority of those who opt for cryopreservation may have in common the same beliefs and allegiances, the cryonics organizations should remain agnostic and disconnected in this regard. Governments and religions jealousy guard their roles as the creators and gatekeepers of ideologies and often punish those who trespass on their territory; consider the Falun Gong in China, or abortion clinics in the US.
+
+ 
+
+ * The Board of Directors of the organization should represent the membership and be selected by the membership. This does not mean that everyone who beco0mes a member has the right to vote. There are many perils associated with such a system, including the takeover, hostile or otherwise, from outsiders as has already been attempted in the case of CI.
+
+ 
+
+   * The Board should be selected by members who have a vested interest in the organization. At a minimum, this should mean that they must have remained members with cryopreservation arrangements in good standing for a reasonable period of time, at which time they should be accorded one vote. Several additional classes of membership should exist based on well defined and pre-specified achievements in service and personal education about cryonics which are acquired over time. These members may be given additional votes as a result of this higher level of involvement and vetting. A preliminary proposal for the initial vesting interval is 5 years.
+
+ 
+
+   * Directors can be selected only from the highest, most experienced and well vetted class of members. Additionally, they should undergo thorough background checks to screen not just for criminal behavior, but for financial and personal responsibility and stability. A core objective of such vetting is to screen out sociopathic or psychopathic individuals who would represent a threat to the stability and viability of the organization.
+
+ 
+
+ * Personnel involved in the delivery of patient care must either be vetted members or continuously supervised in the field and in the facility by vetted members specially trained for the task. It is not acceptable to have the cryopreservation treatment administered unsupervised by non-cryonicist contractors. In human clinical trials, the principal investigator closely supervises the procedures carried out on patients by everyone, including contractors.
+
+ 
+
+ * Defined penalties for errors, negligence or malfeasance must be created, given to personnel and enforced. Serious harm to a patient due to negligence or malfeasance should result in the immediate removal of that person from their job and termination as soon as is practical with no possibility of a return to providing any kind of cryonics service.
+
+ 
+
+ * Everyone who has cryonics arrangements is not necessarily a committed cryonicist. A committed cryonicist is someone who has sought out cryonics, completed the necessary legal and financial arrangements and who remains both signed up and engaged with their cryonics organization over a period of years. Currently, cryonics is infested with individuals whose first contact with cryonics was as a job applicant and who have made cryonics arrangements primarily because it improves their scope of authority and credibility within the organization. Hired hands are just that, hired hands; they don’t get to run the ranch. The scope of authority of such opportunistic cryonicists should be severely limited and they should never occupy core administrative, technical or financial positions within the organization. Failure to follow this dictum has already resulted in embezzlement, fraud and grossly deficient patient care.
+
+ 
+
+ * Expenditure of research dollars should not be on putative revival technologies for the foreseeable future. The enabling technologies required to revive today’s cryonics patients (even those treated under optimum conditions) will necessarily be the province of mainstream industry, medicine and computing technologies. Much basic science remains to be done that is both broad and deep effort. Such efforts are beyond the resources of any of the current cryonics organizations.
+
+ 
+
+   * Research should be directed towards improving the quality of the preservation process and especially on reversible brain cryopreservation research. No other technological development offers greater benefit to cryonics, not just in terms of increased credibility, but also in terms of reassurance to those with cryonics arrangements and their loved ones that the procedure is indeed capable of preserving their personhood.
+
+ 
+
+ * Instead of cosmetic, PR-driven enhancements to patient storage facilities cryonics organizations should have a plan to continually upgrade and harden their storage operations to protect against natural disaster, civil unrest or focused terrorism.
 
