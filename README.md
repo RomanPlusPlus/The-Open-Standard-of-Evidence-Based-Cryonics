@@ -268,7 +268,7 @@ CRITICAL DATA ACQUISITION REQUIRED FOR MAINTAINING QUALITY PATIENT CARE
 
  
 
- * Finally, survival experiments are driven by the core values of healthy (non-pathological) human beings. Because of this they have a dual value. First, they provide a powerful incentive for each person participating to their job well and to learn to do it better. Related to this is the understanding which, if not present before the experiment, is painfully present afterwards in the event of failure, that errors cost lives, create terrible and visible tissue/organ injury and can cause immense suffering. Second, such experiments invariably disclose individuals who are either lack the required temperament (too sensitive), are constitutionally incompetent, habitually careless, or suffer from some type of psychopathology – all which disqualify them as Cryopreservation Team members.
+   * Finally, survival experiments are driven by the core values of healthy (non-pathological) human beings. Because of this they have a dual value. First, they provide a powerful incentive for each person participating to their job well and to learn to do it better. Related to this is the understanding which, if not present before the experiment, is painfully present afterwards in the event of failure, that errors cost lives, create terrible and visible tissue/organ injury and can cause immense suffering. Second, such experiments invariably disclose individuals who are either lack the required temperament (too sensitive), are constitutionally incompetent, habitually careless, or suffer from some type of psychopathology – all which disqualify them as Cryopreservation Team members.
 
  
 
