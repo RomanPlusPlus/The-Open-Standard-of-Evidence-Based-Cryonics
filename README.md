@@ -4,7 +4,7 @@
 
 (to be written)
 
-The first version of this standard was written my Mike Darwin, and released under the [MIT License](https://github.com/RomanPlusPlus/The-Open-Standard-of-Evidence-Based-Cryonics/blob/master/LICENSE). For the complete list of contributors, see [Contributors](https://github.com/RomanPlusPlus/The-Open-Standard-of-Evidence-Based-Cryonics/graphs/contributors).
+The first version of this standard was written my Mike Darwin, and released under the permissive [MIT License](https://github.com/RomanPlusPlus/The-Open-Standard-of-Evidence-Based-Cryonics/blob/master/LICENSE). For the complete list of contributors, see [Contributors](https://github.com/RomanPlusPlus/The-Open-Standard-of-Evidence-Based-Cryonics/graphs/contributors).
 
 ### Feedback
 
