@@ -8,11 +8,11 @@ The first version of this standard was written my Mike Darwin, and released unde
 
 ### Part one. 
 
-* Cryonics organizations must not discriminate against clients. The medical model of cryonics as an emergency room where all comers able to meet the publicly specified requirements of the organization are well and equally treated regardless of age, religion, politics, criminal history, gender, sexual orientation, community influence or celebrity will be employed. “Equally” is understood to mean here that all clients will receive the same minimum standards of care set out as being available upon meeting the specified minimum requirements of the organization. It does not imply that higher standards of care may not be paid for by clients able to afford them.  However, it does mean that if such higher standards are offered or are available for an added fee or other considerations, that all clients shall be apprised of the availability of such non-standard services as soon as such options are made available.
+* **Cryonics organizations must not discriminate against clients**. The medical model of cryonics as an emergency room where all comers able to meet the publicly specified requirements of the organization are well and equally treated regardless of age, religion, politics, criminal history, gender, sexual orientation, community influence or celebrity will be employed. “Equally” is understood to mean here that all clients will receive the same minimum standards of care set out as being available upon meeting the specified minimum requirements of the organization. It does not imply that higher standards of care may not be paid for by clients able to afford them.  However, it does mean that if such higher standards are offered or are available for an added fee or other considerations, that all clients shall be apprised of the availability of such non-standard services as soon as such options are made available.
 
  
 
-* Quality control measures which provide feedback about the nature and effectiveness of all of the organization’s procedures will be publicly disclosed in an open and timely fashion. This is understood to include not only medical, cryobiological, patient care, or other technical and scientific procedures, but also financial, administrative and business procedures as well. Both classes of disclosure, technical and administrative will be discussed in some detail below. Please bear in mind that while this discussion will be considerably detailed, it is not intended to be exhaustive. Nor should it be. The clear message of this point is that a culture of openness and accountability is perhaps the most important ingredient to the long-term success of any cryonics organization or, for that matter, or any high quality medical institution.
+* **Quality control measures which provide feedback about the nature and effectiveness of all of the organization’s procedures will be publicly disclosed in an open and timely fashion**. This is understood to include not only medical, cryobiological, patient care, or other technical and scientific procedures, but also financial, administrative and business procedures as well. Both classes of disclosure, technical and administrative will be discussed in some detail below. Please bear in mind that while this discussion will be considerably detailed, it is not intended to be exhaustive. Nor should it be. The clear message of this point is that a culture of openness and accountability is perhaps the most important ingredient to the long-term success of any cryonics organization or, for that matter, or any high quality medical institution.
 
  
 
@@ -20,7 +20,7 @@ The first version of this standard was written my Mike Darwin, and released unde
 
  
 
-  * Cryonics has become fear driven and in nearly constant crisis mode. Crises driven operation is necessarily mostly reactive rather than proactive. This is not how any successful organization advances scientifically or financially. Indeed, it is not how success is achieved in any area of organizational operations, even in successfully defending the organization in the long run. Because of this situation it is especially difficult for cryonics organizations to have a high level of accountability, even about seemingly harmless facts pertaining to their procedures and policies because cryonics is not an established business institution, has an increasing number of serious enemies, is widely misunderstood, has been subject to unjustified distortion and sensationalism, has been subjected to repeated rounds of invasive and destructive media siege, and is increasingly coming under governmental scrutiny. Under such circumstances it is completely understandable for a “bunker mentality” to develop.
+  * **Cryonics has become fear driven and in nearly constant crisis mode. Crises driven operation is necessarily mostly reactive rather than proactive**. This is not how any successful organization advances scientifically or financially. Indeed, it is not how success is achieved in any area of organizational operations, even in successfully defending the organization in the long run. Because of this situation it is especially difficult for cryonics organizations to have a high level of accountability, even about seemingly harmless facts pertaining to their procedures and policies because cryonics is not an established business institution, has an increasing number of serious enemies, is widely misunderstood, has been subject to unjustified distortion and sensationalism, has been subjected to repeated rounds of invasive and destructive media siege, and is increasingly coming under governmental scrutiny. Under such circumstances it is completely understandable for a “bunker mentality” to develop.
 
   * Further, in order to protect its human cryopatients a cryonics organization may have to develop not only a bunker mentality, but very aggressive and covert means to defend the wellbeing of its patients. The author has spent the past several years reading extensively the history of emerging medical, social, political and religious movements. In no case was social acceptance or tolerance of any major paradigm changing movement achieved without the use of force and fraud. I even include Darwin’s theory of Evolution in this analysis since, as Stephen Jay Gould noted just a few years ago in his book Evolution, evolution is neither widely understood nor accepted more than a hundred years after it was publicly espoused.
 
@@ -50,7 +50,7 @@ CRITICAL DATA ACQUISITION REQUIRED FOR MAINTAINING QUALITY PATIENT CARE
 
  
 
-* All patient records (documents, photo images, video images, raw data, graphs, charts or other data) which are understood to include clients’ names, contractual status, financial transactions related to cryopreservation services, medical records, cryopreservation records, patient transfer records, government permits or forms, and storage records are to be maintained confidential upon the clients’ instructions and are secured in a fire resistant (2-hour burn time) GSA rated safe or filing cabinet in a secured area (away from access by all but authorized personnel) both of which are kept locked at all times when such records are not being accessed. All such records shall be maintained in triplicate as follows: The master set consisting of original documents are stored off-site with a bonded third-party in a highly physically secure location; an example of an acceptable third party would be Underground Vaults and Storage (UVSI) in Hutchison, KS.
+* **All patient records (documents, photo images, video images, raw data, graphs, charts or other data) which are understood to include clients’ names, contractual status, financial transactions related to cryopreservation services, medical records, cryopreservation records, patient transfer records, government permits or forms, and storage records are to be maintained confidential upon the clients’ instructions and are secured in a fire resistant (2-hour burn time) GSA rated safe or filing cabinet in a secured area (away from access by all but authorized personnel) both of which are kept locked at all times when such records are not being accessed.** All such records shall be maintained in triplicate as follows: The master set consisting of original documents are stored off-site with a bonded third-party in a highly physically secure location; an example of an acceptable third party would be Underground Vaults and Storage (UVSI) in Hutchison, KS.
 
  
 
@@ -58,7 +58,7 @@ CRITICAL DATA ACQUISITION REQUIRED FOR MAINTAINING QUALITY PATIENT CARE
 
  
 
-* Patient records (as opposed to Client records) are understood to begin with the patient’s medical history and records and include documentation of the patient’s pre-cardiac arrest condition. A diligent effort is made to gather these records both pre and post cryopreservation. Where possible, when the patient has been diagnosed as terminal, a competent physician (hopefully the organization’s Medical Director) examines the patient, confirms the patient’s terminal status, completes a comprehensive history and physical (H&P) and documents it on an organizationally approved  H&P form. At this time the patient should be evaluated as to sensorium and, as appropriate, specific tests given to determine the degree of mental impairment present, if any (e.g., the Stanford Mini-Mental Status exam which is simple and requires only a writing tool and paper). Where the physician deems it appropriate and material to the integrity of the patient’s cryopreservation arrangements a referral may be made to a psychiatrist, neurologist or other appropriate medical professional. A standard lab panel (CBC and serum chemistries) is drawn as a baseline and, where economically feasible more detailed laboratory studies are undertaken such as a Pantox Profile. The Pantox profile provides a detailed evaluation of the nutrients and metabolites which are currently known to be most protective (and thus most predictive) of cerebral and systemic ischemia-reperfusion injury.
+* **Patient records (as opposed to Client records) are understood to begin with the patient’s medical history and records and include documentation of the patient’s pre-cardiac arrest condition**. A diligent effort is made to gather these records both pre and post cryopreservation. Where possible, when the patient has been diagnosed as terminal, a competent physician (hopefully the organization’s Medical Director) examines the patient, confirms the patient’s terminal status, completes a comprehensive history and physical (H&P) and documents it on an organizationally approved  H&P form. At this time the patient should be evaluated as to sensorium and, as appropriate, specific tests given to determine the degree of mental impairment present, if any (e.g., the Stanford Mini-Mental Status exam which is simple and requires only a writing tool and paper). Where the physician deems it appropriate and material to the integrity of the patient’s cryopreservation arrangements a referral may be made to a psychiatrist, neurologist or other appropriate medical professional. A standard lab panel (CBC and serum chemistries) is drawn as a baseline and, where economically feasible more detailed laboratory studies are undertaken such as a Pantox Profile. The Pantox profile provides a detailed evaluation of the nutrients and metabolites which are currently known to be most protective (and thus most predictive) of cerebral and systemic ischemia-reperfusion injury.
 
  
 
@@ -95,7 +95,7 @@ CRITICAL DATA ACQUISITION REQUIRED FOR MAINTAINING QUALITY PATIENT CARE
  * All data for critical parameters must be reduced to graphic forms in real time so that trends can be seen and the appropriate action taken.
 
 
-* Cryopreservation records are understood to include the following:
+* **Cryopreservation records are understood to include the following**:
 
   * Transport Data: which includes all notes and check sheets documenting the care the patient was given starting at the time Transport Team members were allowed to begin post cardiac arrest care:
 
@@ -133,13 +133,13 @@ CRITICAL DATA ACQUISITION REQUIRED FOR MAINTAINING QUALITY PATIENT CARE
 
   * Perfusion Data Collection Sheets documenting at a minimum:
 
-  * Temperatures (brain, nasopharyngeal, tympanic, surface, and (whole body ) rectal. High–Low Alarms (HLA)
+  * Temperatures (brain, nasopharyngeal, tympanic, surface, and (whole body ) rectal. **High–Low Alarms (HLA)**
 
   * Pressures: arterial (patient), central venous, pre-arterial filter (filter loading)
 
-  * intracranial (where indicated), intra-abdominal (where indicated) HLA
+  * intracranial (where indicated), intra-abdominal (where indicated) **HLA**
 
-  * Flows (arterial, CPA pump, cardiotomy) HLA
+  * Flows (arterial, CPA pump, cardiotomy) **HLA**
 
   * pH (arterial and venous)
 
@@ -147,9 +147,9 @@ CRITICAL DATA ACQUISITION REQUIRED FOR MAINTAINING QUALITY PATIENT CARE
 
   * Perfusate (A&V) measured gases and electrolytes (if any)
 
-  * Concentrate and Recirculating reservoir levels HLA
+  * Concentrate and Recirculating reservoir levels **HLA**
 
-  * Refractive indexes and CPA concentrations HLA
+  * Refractive indexes and CPA concentrations **HLA**
 
   * Results of serum chemistries
 
@@ -158,7 +158,7 @@ CRITICAL DATA ACQUISITION REQUIRED FOR MAINTAINING QUALITY PATIENT CARE
   * All data must be reduced to graphic form for meaningful interpretation.
  
 
- * Cooling to storage temperature including all thermal data and “crackphone” data HLA: This data is reduced to graphic form as well as appended in tabular form. Narrative notes include a detailed description of how the patient was handled every step of the way following the termination of CPA perfusion and placement into long-term storage. These narratives must have a timeline with sensitive data (i.e., the patient’s temperatures) being documented both over time and as they correlate with each significant intervention. An example here would be how much, if any, temperature change occurred during transfer of the patient from the cool down chamber to a sleeping bag and aluminum pod for long term storage or to the neuro cool-down unit.
+ * Cooling to storage temperature including all thermal data and “crackphone” data **HLA**: This data is reduced to graphic form as well as appended in tabular form. Narrative notes include a detailed description of how the patient was handled every step of the way following the termination of CPA perfusion and placement into long-term storage. These narratives must have a timeline with sensitive data (i.e., the patient’s temperatures) being documented both over time and as they correlate with each significant intervention. An example here would be how much, if any, temperature change occurred during transfer of the patient from the cool down chamber to a sleeping bag and aluminum pod for long term storage or to the neuro cool-down unit.
 
  
 
@@ -166,7 +166,7 @@ CRITICAL DATA ACQUISITION REQUIRED FOR MAINTAINING QUALITY PATIENT CARE
 
  
 
-* The non-cryopreserved portion of every neuropatient’s remains are subjected to a thorough autopsy to determine the cause of death (which past in-house experience has found to be at variance with what is on the death certificate ~30% of the time), evaluate the effects of transport procedures (Thumper injuries, correct placement of ET tube, lines, etc., and adverse or other effects of transport medications), further instruct the staff in anatomy, help evaluate alternative treatments, and recover organs and tissues for quality control and training as may be necessary. Whole body patients are examined thoracically in a nondestructive manner to determine cause of death and the presence of any unanticipated pathology which might affect the quality of care (i.e., pulmonary edema, cardiac hypertrophy, pneumothorax, incorrect ET or gastric tube placement, etc.). Tissue samples for subsequent histopathological evaluation will be gathered as appropriate.
+* **The non-cryopreserved portion of every neuropatient’s remains are subjected to a thorough autopsy** to determine the cause of death (which past in-house experience has found to be at variance with what is on the death certificate ~30% of the time), evaluate the effects of transport procedures (Thumper injuries, correct placement of ET tube, lines, etc., and adverse or other effects of transport medications), further instruct the staff in anatomy, help evaluate alternative treatments, and recover organs and tissues for quality control and training as may be necessary. Whole body patients are examined thoracically in a nondestructive manner to determine cause of death and the presence of any unanticipated pathology which might affect the quality of care (i.e., pulmonary edema, cardiac hypertrophy, pneumothorax, incorrect ET or gastric tube placement, etc.). Tissue samples for subsequent histopathological evaluation will be gathered as appropriate.
 
  
 
@@ -174,7 +174,7 @@ CRITICAL DATA ACQUISITION REQUIRED FOR MAINTAINING QUALITY PATIENT CARE
 
  
 
-* CNS material from every patient which has been subjected to vitrification (or when necessary freezing) is examined by TEM. Tissue samples will be collected from every patient where possible at the beginning and the conclusion of cryoprotective perfusion. These samples will include non-damaging quantities of brain, spinal cord (neuropatients only), skeletal muscle, cardiac muscle, liver, kidney (neuropatients only), ileum, and such other tissues as may be determined to be useful in evaluating the quality of care given. Samples which are cryoprotected (i.e., from the CPA perfused portion of the patient) are divided into two aliquots. One aliquot is fixed in an appropriate fashion and prepared for Transmission Electron Microscopy (TEM) and subsequently evaluated by TEM. The other aliquot is placed in a suitable container and inserted into an insulated sleeve which simulates the cooling curve achieved when an average human head is cooled convectively to the Tg of the CPA solution being used. These samples are then rewarmed, fixed, prepared for and subjected to TEM.
+* **CNS material from every patient which has been subjected to vitrification (or when necessary freezing) is examined by TEM**. Tissue samples will be collected from every patient where possible at the beginning and the conclusion of cryoprotective perfusion. These samples will include non-damaging quantities of brain, spinal cord (neuropatients only), skeletal muscle, cardiac muscle, liver, kidney (neuropatients only), ileum, and such other tissues as may be determined to be useful in evaluating the quality of care given. Samples which are cryoprotected (i.e., from the CPA perfused portion of the patient) are divided into two aliquots. One aliquot is fixed in an appropriate fashion and prepared for Transmission Electron Microscopy (TEM) and subsequently evaluated by TEM. The other aliquot is placed in a suitable container and inserted into an insulated sleeve which simulates the cooling curve achieved when an average human head is cooled convectively to the Tg of the CPA solution being used. These samples are then rewarmed, fixed, prepared for and subjected to TEM.
 
  
 
@@ -198,7 +198,7 @@ CRITICAL DATA ACQUISITION REQUIRED FOR MAINTAINING QUALITY PATIENT CARE
 
  
 
-* A monthly publication is made available to clients that discloses all relevant organizational activities. If desired, a second publication may be used to present technical reports on patient care, cryopreservation research and other matters which would be inappropriate for the general clientele or general public. Both publications are included with the client’s basic service package at no additional fee. If a separate technical publication is issued, the client may accept or decline it as s/he chooses.
+* **A _monthly_ publication is made available to clients that discloses all relevant organizational activities**. If desired, a second publication may be used to present technical reports on patient care, cryopreservation research and other matters which would be inappropriate for the general clientele or general public. Both publications are included with the client’s basic service package at no additional fee. If a separate technical publication is issued, the client may accept or decline it as s/he chooses.
 
  
 
@@ -206,23 +206,23 @@ CRITICAL DATA ACQUISITION REQUIRED FOR MAINTAINING QUALITY PATIENT CARE
 
  
 
-* An organizational website containing detailed resources on every aspect of cryonics is maintained. This website includes an extensive technical library, links to other websites with relevant information, complete contractual paperwork, curriculum vitae of personnel as well as Officers and Directors, SOPs and lay-level descriptions of procedures. Blog-type hypertext linkage should be used if feasible. The website also contains a feedback area where comments from validated clients can be logged indefinitely and viewed by the general public without undue editing, as well as comments from visitors to the site who are not clients. The client’s ID# can serve as his/her password.
+* **An organizational website containing detailed resources on every aspect of cryonics** is maintained. This website includes an extensive technical library, links to other websites with relevant information, complete contractual paperwork, curriculum vitae of personnel as well as Officers and Directors, SOPs and lay-level descriptions of procedures. Blog-type hypertext linkage should be used if feasible. The website also contains a feedback area where comments from validated clients can be logged indefinitely and viewed by the general public without undue editing, as well as comments from visitors to the site who are not clients. The client’s ID# can serve as his/her password.
 
  
 
-* Financial records are maintained by a competent bookkeeper and are reviewed yearly by a licensed CPA. These records are posted on the website and made available as hard copy in a timely fashion to clients who request them.
+* **Financial records are maintained by a competent bookkeeper and are reviewed yearly by a licensed CPA**. These records are posted on the website and made available as hard copy in a timely fashion to clients who request them.
 
  
 
-* Training and teaching materials are made available to clients who request them at the cost of copying and mailing these materials. In the case of large volumes of material, a reasonable handling fee may be added to the cost of these documents which the client pays.
+* **Training and teaching materials are made available to clients who request them at the cost of copying and mailing these materials**. In the case of large volumes of material, a reasonable handling fee may be added to the cost of these documents which the client pays.
 
  
 
-* All aspects of the organization’s operations which are to be confidential are defined in the bylaws of the organization and the Bylaws are publicly available via the Internet and as hard copy upon request by any client for a modest fee to cover duplication, shipping and handling. Failure to disclose in any area not specified in the Bylaws is grounds for removal of any Officers, Directors, or employees who conceal activities or events material to any aspect of the organization’s operations.
+* **All aspects of the organization’s operations which are to be confidential are defined in the bylaws of the organization and the Bylaws are publicly available via the Internet and as hard copy upon request by any client for a modest fee to cover duplication, shipping and handling.** Failure to disclose in any area not specified in the Bylaws is grounds for removal of any Officers, Directors, or employees who conceal activities or events material to any aspect of the organization’s operations.
 
  
 
-* Patient Case Reports and Patient Case Histories are prepared as needed and in a timely fashion. In the early days of the organization when only one or at most a few patients are being cryopreserved per year a full Case Report should be prepared and published. This is done because quality is strongly related to volume and further, each case is likely to be different during the start-up period. A Case Report is not only a full documentation of procedures used on the patient as well the rationale for those procedures, it is also an analysis (within the limits of current understanding) of the outcome of the case including discussions of problems, equipment failures, and areas or specific suggestions for improving future cases.
+* **Patient Case Reports and Patient Case Histories are prepared as needed and in a timely fashion.** In the early days of the organization when only one or at most a few patients are being cryopreserved per year a full Case Report should be prepared and published. This is done because quality is strongly related to volume and further, each case is likely to be different during the start-up period. A Case Report is not only a full documentation of procedures used on the patient as well the rationale for those procedures, it is also an analysis (within the limits of current understanding) of the outcome of the case including discussions of problems, equipment failures, and areas or specific suggestions for improving future cases.
 
  
 
@@ -238,7 +238,7 @@ CRITICAL DATA ACQUISITION REQUIRED FOR MAINTAINING QUALITY PATIENT CARE
 
  
 
-* Animal research is conducted on an ongoing basis on clinically relevant model(s) to evaluate the effects of the organization’s cryopreservation procedures in ways that cannot be achieved using human patients. Such studies shall also be conducted to advance the state of the art as a whole and to provide both research and training protocols which have as endpoints survival of the animals and other objectifiable endpoints which are determined a priori. All such protocols shall have rigorous scientific design, be reviewed by a qualified Institutional Animal Review and Use Committee and comply with USDA and NIH guidelines for human care and treatment of research animals. Animal research facilities will be Federally licensed and, where possible will meet AALAC (American Association of Laboratory Animal Care) standards if not have AALAC certification.  There will be extensive further discussion of these points later in this memorandum.
+* **Animal research is conducted on an ongoing basis on clinically relevant model(s) to evaluate the effects of the organization’s cryopreservation procedures in ways that cannot be achieved using human patients.** Such studies shall also be conducted to advance the state of the art as a whole and to provide both research and training protocols which have as endpoints survival of the animals and other objectifiable endpoints which are determined a priori. All such protocols shall have rigorous scientific design, be reviewed by a qualified Institutional Animal Review and Use Committee and comply with USDA and NIH guidelines for human care and treatment of research animals. Animal research facilities will be Federally licensed and, where possible will meet AALAC (American Association of Laboratory Animal Care) standards if not have AALAC certification.  There will be extensive further discussion of these points later in this memorandum.
 
  
 
