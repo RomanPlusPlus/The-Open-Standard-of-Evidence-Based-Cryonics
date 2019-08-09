@@ -10,9 +10,9 @@ The first version of this standard was written my Mike Darwin, and released unde
 
 This open standard is powered by cryonics community, and is a work in progress. Feedback is highly appreciated!
 
-Please feel free to suggest edits using the ["issue"]( https://github.com/RomanPlusPlus/The-Open-Standard-of-Evidence-Based-Cryonics/issues) feature.
+Please feel free to suggest edits using the ["issue"]( https://github.com/RomanPlusPlus/The-Open-Standard-of-Evidence-Based-Cryonics/issues) feature. You can also subscribe to changes using [RSS](https://github.com/RomanPlusPlus/The-Open-Standard-of-Evidence-Based-Cryonics/commits/master.atom).
 
-You can also subscribe to changes using [RSS](https://github.com/RomanPlusPlus/The-Open-Standard-of-Evidence-Based-Cryonics/commits/master.atom).
+--------------------------------
 
 ### Part one 
 
