@@ -4,6 +4,8 @@
 
 (to be written)
 
+The first version of this standard was written my Mike Darwin, and released under the [MIT Licence](https://github.com/RomanPlusPlus/The-Open-Standard-of-Evidence-Based-Cryonics/blob/master/LICENSE). For the complete list of contributors, see [Contributors](https://github.com/RomanPlusPlus/The-Open-Standard-of-Evidence-Based-Cryonics/graphs/contributors).
+
 ### Part one. 
 
 * Cryonics organizations must not discriminate against clients. The medical model of cryonics as an emergency room where all comers able to meet the publicly specified requirements of the organization are well and equally treated regardless of age, religion, politics, criminal history, gender, sexual orientation, community influence or celebrity will be employed. “Equally” is understood to mean here that all clients will receive the same minimum standards of care set out as being available upon meeting the specified minimum requirements of the organization. It does not imply that higher standards of care may not be paid for by clients able to afford them.  However, it does mean that if such higher standards are offered or are available for an added fee or other considerations, that all clients shall be apprised of the availability of such non-standard services as soon as such options are made available.
