@@ -2,9 +2,16 @@
 
 ### Preamble 
 
-(to be written)
+The standard serves to promote long-term sustainability, high quality of services, and ethical business practices in the field of cryonics. 
 
-The first version of this standard was written by Mike Darwin, and released under the permissive [MIT License](https://github.com/RomanPlusPlus/The-Open-Standard-of-Evidence-Based-Cryonics/blob/master/LICENSE). For the complete list of contributors, see [Contributors](https://github.com/RomanPlusPlus/The-Open-Standard-of-Evidence-Based-Cryonics/graphs/contributors).
+The standard is open: 
+* it's publicly accessible in its entirety 
+* it's free to copy and use (including commercial use)
+* it's released under the permissive [MIT License](https://github.com/RomanPlusPlus/The-Open-Standard-of-Evidence-Based-Cryonics/blob/master/LICENSE)
+* everyone can contribute to its development
+* all changes to the standard are logged, and the logs are publicly [available](https://github.com/RomanPlusPlus/The-Open-Standard-of-Evidence-Based-Cryonics/commits/master) 
+
+The first version of this standard was written by Mike Darwin, and released under the MIT License. For the complete list of contributors, see [Contributors](https://github.com/RomanPlusPlus/The-Open-Standard-of-Evidence-Based-Cryonics/graphs/contributors).
 
 ### Feedback
 
