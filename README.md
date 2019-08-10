@@ -40,8 +40,8 @@ Please feel free to suggest edits using the ["issue"]( https://github.com/RomanP
   - [4.2 Ethical advertising](#42-ethical-advertising)
   - [4.3 Transparency](#43-transparency)
     - [4.3.1 General considerations](#431-general-considerations)
-    - [4.3.2 Transparent management](#432-transparent-management)
-    - [4.3.3 Transparency by default](#433-transparency-by-default)
+    - [4.3.2 Transparency by default](#432-transparency-by-default)
+    - [4.3.3 Transparent management](#433-transparent-management)
     - [4.3.3 Website](#433-website)
     - [4.3.4 Financial records](#434-financial-records)
     - [4.3.5 Patient Case Reports and Histories](#435-patient-case-reports-and-histories)
@@ -270,16 +270,16 @@ All cryonics organizations must accurately and fairly represent the true cost of
 ##### 4.3.1 General considerations
 Quality control measures which provide feedback about the nature and effectiveness of all of the organization’s procedures will be publicly disclosed in an open and timely fashion. This is understood to include not only medical, cryobiological, patient care, or other technical and scientific procedures, but also financial, administrative and business procedures as well. Both classes of disclosure, technical and administrative will be discussed in some detail below. Please bear in mind that while this discussion will be considerably detailed, it is not intended to be exhaustive. Nor should it be. The clear message of this point is that a culture of openness and accountability is perhaps the most important ingredient to the long-term success of any cryonics organization or, for that matter, or any high quality medical institution.
 
-##### 4.3.2 Transparent management
-Make management transparent to members. The reality is that very little of Board business is required to be conducted in camera. Vice thrives in the dark. It is very unlikely that there would have been serious board discussions about switching whole-body members to neuro without their consent had these discussions been held in the sunlight. Transparent Board meetings also expose the quality of management and of its decisions to ongoing scrutiny by the membership.
-
-##### 4.3.3 Transparency by default
+##### 4.3.2 Transparency by default
 All aspects of the organization’s operations which are to be confidential are defined in the bylaws of the organization and the Bylaws are publicly available via the Internet and as hard copy upon request by any client for a modest fee to cover duplication, shipping and handling. Failure to disclose in any area not specified in the Bylaws is grounds for removal of any Officers, Directors, or employees who conceal activities or events material to any aspect of the organization’s operations.
 Monthly publication
 
 A monthly publication is made available to clients that discloses all relevant organizational activities. If desired, a second publication may be used to present technical reports on patient care, cryopreservation research and other matters which would be inappropriate for the general clientele or general public. Both publications are included with the client’s basic service package at no additional fee. If a separate technical publication is issued, the client may accept or decline it as s/he chooses.
 
 Except in rare instances (and routine matters of client confidentiality) all matters which are critical to the operation of the organization are disclosed in a forthright manner in the monthly publication. This includes regular reports on cryopreservation readiness (and disclosure of how readiness is evaluated), research activities, case histories and what has been learned from them, including disclosure of any material error or deficit in care, social and political events of direct relevance to cryonics and the organization, opportunities for education, training, employment, volunteerism and such other internal organizational news as will allow the client to be informed and aware of the organization’s health and progress. A specific part of the newsletter is given over to client feedback which can be edited for length and repetitiveness but not for substance.
+
+##### 4.3.3 Transparent management
+Make management transparent to members. The reality is that very little of Board business is required to be conducted in camera. Vice thrives in the dark. It is very unlikely that there would have been serious board discussions about switching whole-body members to neuro without their consent had these discussions been held in the sunlight. Transparent Board meetings also expose the quality of management and of its decisions to ongoing scrutiny by the membership.
 
 ##### 4.3.3 Website
 An organizational website containing detailed resources on every aspect of cryonics is maintained. This website includes an extensive technical library, links to other websites with relevant information, complete contractual paperwork, curriculum vitae of personnel as well as Officers and Directors, SOPs and lay-level descriptions of procedures. Blog-type hypertext linkage should be used if feasible. The website also contains a feedback area where comments from validated clients can be logged indefinitely and viewed by the general public without undue editing, as well as comments from visitors to the site who are not clients. The client’s ID# can serve as his/her password.
