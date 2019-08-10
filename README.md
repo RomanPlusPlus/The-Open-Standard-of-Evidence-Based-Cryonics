@@ -12,6 +12,9 @@ This open standard is powered by cryonics community, and is a work in progress. 
 
 Please feel free to suggest edits using the ["issue"]( https://github.com/RomanPlusPlus/The-Open-Standard-of-Evidence-Based-Cryonics/issues) feature. You can also subscribe to changes using [RSS](https://github.com/RomanPlusPlus/The-Open-Standard-of-Evidence-Based-Cryonics/commits/master.atom).
 
+### Table of Contents
+
+
 --------------------------------
 
 ### 1 Introduction
@@ -64,7 +67,7 @@ Create and maintain segregated funding that is adequate to provide for the long-
 
 ### 3 High quality of services
 
-### 3.1 Adequately trained and certified personnel
+#### 3.1 Adequately trained and certified personnel
 All biomedical personnel must be adequately trained and certified in order to participate in human cryopreservations. This means the creation of a training and certification program for each phase of the cryopreservation procedure including, but not limited to: interface with the terminal patient, his family and medical care givers, standby for acute stabilization, stabilization (cardiopulmonary support, drug administration, induction of hypothermia, blood washout and/or ECMO, etc.), safe transportation to the cryonics facility, cryoprotective perfusion, cool-down to storage temperature and long term storage. Such training must include extensive didactic and hands-on training with appropriate testing and evaluation to establish that the required knowledge and skills have been mastered.
 
 The knowledge and skills of the personnel employed in clinical cryopreservation must be maintained with regular continuing education and training employing live animals and employing validation by the pre-specified technologies the organization uses to represent its outcomes to its members and to the public.
@@ -73,7 +76,7 @@ Personnel involved in the delivery of patient care must either be vetted members
 
 Defined penalties for errors, negligence or malfeasance must be created, given to personnel and enforced. Serious harm to a patient due to negligence or malfeasance should result in the immediate removal of that person from their job and termination as soon as is practical with no possibility of a return to providing any kind of cryonics service.
 
-### 3.2 Evidence-based treatment 
+#### 3.2 Evidence-based treatment 
 Evidence of the efficacy of cryonics treatment procedures should come from animal models that reflect the advanced age, ill health, agonal shock and warm and cold ischemia in every class of patient the organization proposes to treat.
 
 Similarly, there should be TEM and preferably focused ion beam tomography on brain tissue from both animals and patients subjected to varying periods of ischemia and straight freezing to simulate situations where there is a long postmortem delay, delayed or absent refrigeration, autopsy and so on. Members and patients have the right to something more than a “black box” of hope that depends upon the technological achievements and largesse of purported superior future beings, often referred to as “transhumans”.
@@ -88,22 +91,22 @@ Since human cryopreservation is marketed as an experimental, potentially lifesav
 
 Cryonics, as currently practiced, cannot meet these requirements since it has no exclusion or inclusion criteria. In effect, cryonics accepts “all comers”, including individuals in advanced states of decomposition, who have been autopsied or who are otherwise amenable only to refrigeration to arrest further decomposition. It is suggested that if cryonics organizations wish to cryopreserve such individuals that they a create distinct subsidiary organization that offers cryopreservation as a cosmetic preservative procedure, with no attached implication of it being in any way a scientific undertaking, and with absolutely no implication or intimation that revival of the person so treated will eventuate.
 
-### 3.3 Critical data acquisition
+#### 3.3 Critical data acquisition
 
-#### 3.3.1 General considerations
+##### 3.3.1 General considerations
 The core elements of establishing effective biomedical feedback (biomedical being understood here to mean all technical aspects of patient care and related research operations, including animal research) are the intensive, multifaceted and accurate collection of data and the reduction, analysis and open publication of that data in a timely basis. The author will list specific examples of patient care data which need to be collected as a minimum standard. This is done to both to allow for evaluation of the likely costs and problems involved in such achieving such accountability, and to point out the deficiencies present in all current cryonics operations. Animal research data which needs to be gathered will be more specific to the experimental protocol and will not be discussed in exhaustive detail here, although where specific costly facilities or equipment are known to be needed, they will be enumerated and discussed.
 
 Beginning with the first contact records are maintained of significant contacts with the client. Comprehensive contractual paperwork such as that developed from Alcor’s paperwork by CryoCare is used to establish and maintain contractual relations with the client. These documents are confidential only when executed by the client. Once executed, these documents are treated as medical records (under the definition of HIPPA legislation); available only to authorized persons within the organization, except when ordered disclosed by a court of law. Validity of contracts is safeguarded by insuring that proper funding exists (through the now well developed means of trust structuring, prepayment, organizational insurance policy ownership, etc.), and that where appropriate, potential clients are legally capable of giving consent (i.e., at need cases where a relative is being presented for care, clients with questionable mental competency, etc.).
 
-#### 3.3.2 Storing patient records
+##### 3.3.2 Storing patient records
 All patient records (documents, photo images, video images, raw data, graphs, charts or other data) which are understood to include clients’ names, contractual status, financial transactions related to cryopreservation services, medical records, cryopreservation records, patient transfer records, government permits or forms, and storage records are to be maintained confidential upon the clients’ instructions and are secured in a fire resistant (2-hour burn time) GSA rated safe or filing cabinet in a secured area (away from access by all but authorized personnel) both of which are kept locked at all times when such records are not being accessed. All such records shall be maintained in triplicate as follows: The master set consisting of original documents are stored off-site with a bonded third-party in a highly physically secure location; an example of an acceptable third party would be Underground Vaults and Storage (UVSI) in Hutchison, KS.
 
 A second set of records is maintained as a duplicate master (which includes digitally stored copies of any analog materials such as photographs). These two sets of records are to be treated as inviolate and may be accessed only with the written consent of the Department head in charge of Cryopreservation Services, the Medical Director and the CEO of the organization. The third set of records is a working set which contains only analog data. The secured area contains no photocopying or duplicating equipment on a routine basis, and employees or others who enter the secured area are searched to insure they are not covertly carrying duplicating equipment with them. When records are to be prepared for publication, appropriate access (i.e., provision of copying and computing equipment in the secure area) will be granted in writing only by a quorum of the organization’s board of directors and responsibility for supervising such data acquisition will be that of the CEO. Records being prepared for publication by being copied and having identifying information stripped from them are not removed from the secure area until all identifying features have been removed.
 
-#### 3.3.3 Standard Operating Procedures (SOPs)
+##### 3.3.3 Standard Operating Procedures (SOPs)
 All aspects of research and patient care operations are documented by Standard Operating Procedures (SOPs) which are sufficiently detailed to allow for replication of the procedure by anyone knowledgeable in the art. All equipment used in such procedures, specialized or otherwise, has fully documented instructions for proper care, use and anticipated maintenance. Other than in cases where there is proprietary interest preventing full disclosure, all SOPs are open source and available for client inspection. Checklists for most aspects of operations, inventories with expiry’s with high and low levels requiring action for all supplies, and checklists for routine maintenance of equipment are maintained. Where appropriate, logs are maintained noting storage conditions for sensitive supplies and equipment and any significant deviations and actions taken are also maintained. A few examples of the latter are refrigerator logs, vehicle maintenance logs, and battery discharge/recharge logs. Equipment identified as critical to delivering cryopreservation services or conducting accurate research is evaluated and reported upon to the appropriate manager on a quarterly basis, or more often if necessary.
 
-#### 3.3.4 Medical examination of the patient
+##### 3.3.4 Medical examination of the patient
 Patient records (as opposed to Client records) are understood to begin with the patient’s medical history and records and include documentation of the patient’s pre-cardiac arrest condition. A diligent effort is made to gather these records both pre and post cryopreservation. Where possible, when the patient has been diagnosed as terminal, a competent physician (hopefully the organization’s Medical Director) examines the patient, confirms the patient’s terminal status, completes a comprehensive history and physical (H&P) and documents it on an organizationally approved H&P form. At this time the patient should be evaluated as to sensorium and, as appropriate, specific tests given to determine the degree of mental impairment present, if any (e.g., the Stanford Mini-Mental Status exam which is simple and requires only a writing tool and paper). Where the physician deems it appropriate and material to the integrity of the patient’s cryopreservation arrangements a referral may be made to a psychiatrist, neurologist or other appropriate medical professional. A standard lab panel (CBC and serum chemistries) is drawn as a baseline and, where economically feasible more detailed laboratory studies are undertaken such as a Pantox Profile. The Pantox profile provides a detailed evaluation of the nutrients and metabolites which are currently known to be most protective (and thus most predictive) of cerebral and systemic ischemia-reperfusion injury.
 
 Where the patient accedes, the physician should discuss both alternative treatment strategies where there is a possibility of benefit (i.e., LEF style approaches and conventional medical research trials of investigational drugs, devices or procedures). The patient is reassessed by the organization’s physician, nurse or technician (the latter under the physician’s supervision) on a regular basis, and lab work repeated when necessary to follow the patient’s condition. Lab work will also be used in situations where there is the desire on the part of the patient to evaluate the effectiveness of pre-cryopreservation interventions to reduce ischemic injury, prevent peri- and post-cardiac arrest clotting and generally improve the patient’s chances for quality cryopreservation. All serum laboratory samples should be divided into two parts after collection: one part is sent out of evaluation and the other is cryopreserved as a reference sample, forensic safeguard, and for possible evaluation by potentially valuable testing modalities not currently envisioned or anticipated.
@@ -112,7 +115,7 @@ Where there is the significant possibility of sudden death, this is discussed wi
 
 All exams and discussions with the patient which are of a critical nature, where consent is given, should be video graphed using digital videography equipment.
 
-#### 3.3.5 Pre-Mortem Cryonics Records
+##### 3.3.5 Pre-Mortem Cryonics Records
 Pre-Mortem Cryonics Records are understood to include regular phone interviews about health, wellbeing and prognoses. 
 These also include Standby records such as patient medical assessments:
 
@@ -134,7 +137,7 @@ Organizational Nursing Notes or Checklists must be completed and included in the
 
 All data for critical parameters must be reduced to graphic forms in real time so that trends can be seen and the appropriate action taken.
 
-#### 3.3.6 Cryopreservation records 
+##### 3.3.6 Cryopreservation records 
 Cryopreservation records are understood to include the following:
 
 Transport Data: which includes all notes and check sheets documenting the care the patient was given starting at the time Transport Team members were allowed to begin post cardiac arrest care:
@@ -201,7 +204,7 @@ Cooling to storage temperature including all thermal data and “crackphone” d
 
 Extensive and uninterrupted photographic and digital video documentation of every step of the procedure. Typically, 300 to 400 photographs should be taken for a case involving both transport and CPA perfusion. Photos should document equipment used, personnel, surgical and other procedures, and the patient’s response to these procedures.
 
-#### 3.3.7 Autopsy that helps
+##### 3.3.7 Autopsy that helps
 The non-cryopreserved portion of every neuropatient’s remains are subjected to a thorough autopsy to determine the cause of death (which past in-house experience has found to be at variance with what is on the death certificate ~30% of the time), evaluate the effects of transport procedures (Thumper injuries, correct placement of ET tube, lines, etc., and adverse or other effects of transport medications), further instruct the staff in anatomy, help evaluate alternative treatments, and recover organs and tissues for quality control and training as may be necessary. Whole body patients are examined thoracically in a nondestructive manner to determine cause of death and the presence of any unanticipated pathology which might affect the quality of care (i.e., pulmonary edema, cardiac hypertrophy, pneumothorax, incorrect ET or gastric tube placement, etc.). Tissue samples for subsequent histopathological evaluation will be gathered as appropriate.
 
 Routine autopsy also has the tremendous advantage of acquainting the staff (even seasoned and medically experienced team members) with the extent to which and the ways in which various lethal diseases impact multiple organ systems. For example, it often becomes clear why gas exchange or circulation was sub-optimum during transport when autopsy discloses lungs which are ~80% solid tumor or a heart which is compressed by a pericardial effusion.
