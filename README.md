@@ -154,20 +154,14 @@ All exams and discussions with the patient which are of a critical nature, where
 ##### 3.3.5 Pre-Mortem Cryonics Records
 Pre-Mortem Cryonics Records are understood to include regular phone interviews about health, wellbeing and prognoses. 
 These also include Standby records such as patient medical assessments:
+* Karnofsky’s score
+* Glasgow Coma Score
+* Vitals: HR, RR, BP, breath sounds, SpO2, LOC or GCS (q. 4 hours or more often as needed)
+* Medications
+* All charting up to the time of cardiopulmonary arrest
+* Staff (cryonics organization, hospice and others) present and their shift hours
 
-Karnofsky’s score
-
-Glasgow Coma Score
-
-Vitals: HR, RR, BP, breath sounds, SpO2, LOC or GCS (q. 4 hours or more often as needed)
-
-Medications
-
-All charting up to the time of cardiopulmonary arrest
-
-Staff (cryonics organization, hospice and others) present and their shift hours
-
-Narrative notes should also be made if the patient was alone with staff during any period of critical illnesses where LOC was impaired
+Narrative notes should also be made if the patient was alone with staff during any period of critical illnesses where LOC was impaired.
 
 Organizational Nursing Notes or Checklists must be completed and included in the record. These include Transport Overview, Emergency Information Questionnaire (where applicable), Patient Assessment Sheet (both pages including list of medications), Transport Team, Organization and Coordination (where job duties are assigned), Hospital and Physician Checklist, Funeral Director Checklist, ME’s Checklist,” Autopsy Checklist (where appropriate), and a Transport Data Collection Form which allows for systematic and linear gathering of the data described above.
 
