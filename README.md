@@ -169,64 +169,37 @@ All data for critical parameters must be reduced to graphic forms in real time s
 
 ##### 3.3.6 Cryopreservation records 
 Cryopreservation records are understood to include the following:
+* Transport Data: which includes all notes and check sheets documenting the care the patient was given starting at the time Transport Team members were allowed to begin post cardiac arrest care:
+  * Estimated or known pre-arrest hypoxic time, time of arrest, ischemic time, time
+  * Nature of CPS initiation, full description of CPS (compression rate, type of CPR, ventilation rate and volume/pressure)
+  * Estimated or known hypoxic time after arrest (i.e., time till ventilation begun) response to CPS as documented minimally by EtCO2, pulse oximetry
+  * Gross patient response to CPS (skin color and pulses) should be rechecked and charted every 10 minutes
+  * Patient temperatures which must include esophageal and rectal temperatures
+  * Blood samples drawn: Samples must also be labeled clearly at to patient, time and source. Samples should be drawn at the start of CPS and less than every 15 minutes thereafter. Where economically feasible a baseline Pantox sample should be drawn at arrest and then at 30-minute intervals until the patient’s temperature reaches 15 degrees C or TBW is begun.
 
-Transport Data: which includes all notes and check sheets documenting the care the patient was given starting at the time Transport Team members were allowed to begin post cardiac arrest care:
-
-Estimated or known pre-arrest hypoxic time, time of arrest, ischemic time, time
-
-Nature of CPS initiation, full description of CPS (compression rate, type of CPR, ventilation rate and volume/pressure)
-
-Estimated or known hypoxic time after arrest (i.e., time till ventilation begun) response to CPS as documented minimally by EtCO2, pulse oximetry
-
-Gross patient response to CPS (skin color and pulses) should be rechecked and charted every 10 minutes
-
-Patient temperatures which must include esophageal and rectal temperatures
-
-Blood samples drawn: Samples must also be labeled clearly at to patient, time and source. Samples should be drawn at the start of CPS and less than every 15 minutes thereafter. Where economically feasible a baseline Pantox sample should be drawn at arrest and then at 30-minute intervals until the patient’s temperature reaches 15 degrees C or TBW is begun.
-
-All of these variables must be collected at regular intervals and the time duly noted. All formal checklists should be as complete as possible and included in this record.
-
-Transport medications given
-
-Initiation of cooling and the method used (PIB/SCD, peritoneal lavage, GLV cooling, or a combination), and of blood samples drawn at regular intervals during CPS.
-
-Temperatures, EtCO2, oximetry data, should be collected at 5-minute intervals and more often if possible. Automated data collection for these and other parameters is highly desirable.
-
-Death Certificate, Burial Transit Permits: and any other state legal documents required to gain access to, move, or retain custody of the patient. A certified cope of the patient’s death certificate should remain in his/her file at all times, as well as a copy of the state disposition permit for whole body patients.
-
-Ground/Air Transport Data: such as details of how the patient was packed for shipment and refrigerated for remote air or ground travel. A narrative of air/ground travel, temperature readings taken manually or by data-logger during such transport, time of arrival at the organization’s facility, and details of removal from packaging and placement on the operating table is also essential. Both departure and arrival core temperatures should be a part of this record. It is critically important that these and wherever possible as much of the foregoing operations be digitally video graphed and photographed to document the standard of care, performance of individual personnel, and details which cannot or are not recorded by scribe(s) or automated equipment.
+* All of these variables must be collected at regular intervals and the time duly noted. All formal checklists should be as complete as possible and included in this record.
+* Transport medications given
+* Initiation of cooling and the method used (PIB/SCD, peritoneal lavage, GLV cooling, or a combination), and of blood samples drawn at regular intervals during CPS.
+* Temperatures, EtCO2, oximetry data, should be collected at 5-minute intervals and more often if possible. Automated data collection for these and other parameters is highly desirable.
+* Death Certificate, Burial Transit Permits: and any other state legal documents required to gain access to, move, or retain custody of the patient. A certified cope of the patient’s death certificate should remain in his/her file at all times, as well as a copy of the state disposition permit for whole body patients.
+* Ground/Air Transport Data: such as details of how the patient was packed for shipment and refrigerated for remote air or ground travel. A narrative of air/ground travel, temperature readings taken manually or by data-logger during such transport, time of arrival at the organization’s facility, and details of removal from packaging and placement on the operating table is also essential. Both departure and arrival core temperatures should be a part of this record. It is critically important that these and wherever possible as much of the foregoing operations be digitally video graphed and photographed to document the standard of care, performance of individual personnel, and details which cannot or are not recorded by scribe(s) or automated equipment.
 
 Cryoprotective Perfusion Data:
-
-Pre-arrival checklists perfusate preparation procedure including composition, validating measurements, lots #s and manufacturers for all ingredients
-
-Perfusion circuit diagram and any modifications thereto
-
-Operative Narratives with illustrations (sketches) of all procedures done
-
-Perfusion Data Collection Sheets documenting at a minimum:
-
-Temperatures (brain, nasopharyngeal, tympanic, surface, and (whole body ) rectal. High–Low Alarms (HLA)
-
-Pressures: arterial (patient), central venous, pre-arterial filter (filter loading)
-
-intracranial (where indicated), intra-abdominal (where indicated) HLA
-
-Flows (arterial, CPA pump, cardiotomy) HLA
-
-pH (arterial and venous)
-
-sweep gas composition
-
-Perfusate (A&V) measured gases and electrolytes (if any)
-
-Concentrate and Recirculating reservoir levels HLA
-
-Refractive indexes and CPA concentrations HLA
-
-Results of serum chemistries
-
-Computer acquired data.
+* Pre-arrival checklists perfusate preparation procedure including composition, validating measurements, lots #s and manufacturers for all ingredients
+* Perfusion circuit diagram and any modifications thereto
+* Operative Narratives with illustrations (sketches) of all procedures done
+* Perfusion Data Collection Sheets documenting at a minimum:
+* Temperatures (brain, nasopharyngeal, tympanic, surface, and (whole body ) rectal. **High–Low Alarms (HLA)**
+* Pressures: arterial (patient), central venous, pre-arterial filter (filter loading)
+* intracranial (where indicated), intra-abdominal (where indicated) HLA
+* Flows (arterial, CPA pump, cardiotomy) HLA
+* pH (arterial and venous)
+* sweep gas composition
+* Perfusate (A&V) measured gases and electrolytes (if any)
+* Concentrate and Recirculating reservoir levels HLA
+* Refractive indexes and CPA concentrations HLA
+* Results of serum chemistries
+* Computer acquired data.
 
 All data must be reduced to graphic form for meaningful interpretation.
 
