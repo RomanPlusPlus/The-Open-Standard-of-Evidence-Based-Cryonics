@@ -471,7 +471,7 @@ The next attempt to establish industry-wide binding standards was initiated by F
 
 The core requirement of the DOMSAC were to: 
 
-"Set minimum standards for all technical aspects of perfusion and cool-down, including data collection formats, parameters to be logged, frequency of data acquisition, minimum equipment and chemicals to be kept on hand at all times, and so on." 
+_"Set minimum standards for all technical aspects of perfusion and cool-down, including data collection formats, parameters to be logged, frequency of data acquisition, minimum equipment and chemicals to be kept on hand at all times, and so on."_ 
 
 The objectives of the DOMSAC were to:
 * Established a basic standard for organization, reporting and public disclosure of patient case data.
