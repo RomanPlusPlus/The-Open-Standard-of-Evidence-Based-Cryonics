@@ -101,7 +101,19 @@ All directors and officers must have been brain preservation members or clients 
 
 Everyone who has cryonics arrangements is not necessarily a committed cryonicist. A committed cryonicist is someone who has sought out cryonics, completed the necessary legal and financial arrangements and who remains both signed up and engaged with their cryonics organization over a period of years. Currently, cryonics is infested with individuals whose first contact with cryonics was as a job applicant and who have made cryonics arrangements primarily because it improves their scope of authority and credibility within the organization. Hired hands are just that, hired hands; they don’t get to run the ranch. The scope of authority of such opportunistic cryonicists should be severely limited and they should never occupy core administrative, technical or financial positions within the organization. Failure to follow this dictum has already resulted in embezzlement, fraud and grossly deficient patient care.
 
-##### 2.2.3 Emergency plans
+##### 2.2.3 Regular reviews
+
+The CSO must have a governing body that is responsible for reviewing and approving the organization’s mission and strategic direction, annual budget and key financial transactions, compensation practices and policies, and fiscal and governance policies.
+
+The board should establish and review regularly the organization’s mission and goals and should evaluate, no less frequently than every five years, the organization’s programs, goals and activities to be sure they advance its mission and make prudent use of its resources.
+
+The board should review organizational and governing instruments no less frequently than every 3 years.
+
+Board members should evaluate their performance as a group and as individuals no less frequently than every 2 years, and should have clear, written procedures for removing board members who are unable to fulfill their responsibilities.
+
+The board of should review its own size and structure periodically. 
+
+##### 2.2.4 Emergency plans
 
 The organization must have a detailed, written plan of action to protect its patients in cryopreservation against legal or legislative attack, economic instability, insurgent attack by anti-cryonics individuals or entities, as well as plans to cope with and prevail over known existential risks to which its patients may be subject (i.e., hurricanes, tornadoes, earthquakes, blizzards, etc.).
 
