@@ -83,23 +83,23 @@ As an experimental treatment cryonics is not a religious, philosophical, social,
 
 #### 2.2 Management
 
-##### 2.2.1 General considerations
+##### 2.2.1 Selection of directors 
 
 The Board of Directors of the organization should represent the membership and be selected by the membership. This does not mean that everyone who becomes a member has the right to vote. There are many perils associated with such a system, including the takeover, hostile or otherwise, from outsiders as has already been attempted in several cryonics organisations.
+
+Directors can be selected only from the highest, most experienced and well vetted class of members. Additionally, they should undergo thorough background checks to screen not just for criminal behavior, but for financial and personal responsibility and stability. A core objective of such vetting is to screen out sociopathic or psychopathic individuals who would represent a threat to the stability and viability of the organization.
 
 The Board should be selected by members who have a vested interest in the organization. At a minimum, this should mean that they must have remained members with cryopreservation arrangements in good standing for a reasonable period of time, at which time they should be accorded one vote. Several additional classes of membership should exist based on well defined and pre-specified achievements in service and personal education about cryonics which are acquired over time. These members may be given additional votes as a result of this higher level of involvement and vetting. A preliminary proposal for the initial vesting interval is 5 years.
 
 Beyond the requirement of 5 consecutive years as a cryopreservation member or client, the board shall establish clear policies and procedures setting the length of terms and the number of consecutive terms a board member may serve.
 
-##### 2.2.2 Directors, officers
+Everyone who has cryonics arrangements is not necessarily a committed cryonicist. A committed cryonicist is someone who has sought out cryonics, completed the necessary legal and financial arrangements and who remains both signed up and engaged with their cryonics organization over a period of years. Currently, cryonics is infested with individuals whose first contact with cryonics was as a job applicant and who have made cryonics arrangements primarily because it improves their scope of authority and credibility within the organization. Hired hands are just that, hired hands; they don’t get to run the ranch. The scope of authority of such opportunistic cryonicists should be severely limited and they should never occupy core administrative, technical or financial positions within the organization. Failure to follow this dictum has already resulted in embezzlement, fraud and grossly deficient patient care.
+
+##### 2.2.2 Officers
 
 The board shall hire, oversee, and biannually evaluate the performance of the chief executive officer of the organization, and should conduct such an evaluation prior to any change in that officer’s compensation, unless there is a multi-year contract in force or the change consists solely of routine adjustments for inflation or cost of living.
 
-Directors can be selected only from the highest, most experienced and well vetted class of members. Additionally, they should undergo thorough background checks to screen not just for criminal behavior, but for financial and personal responsibility and stability. A core objective of such vetting is to screen out sociopathic or psychopathic individuals who would represent a threat to the stability and viability of the organization.
-
-All directors and officers must have been brain preservation members or clients of the organization for a minimum of 5 consecutive years before becoming eligible to serve as a director or officer. In the case of newly forming CSOs, officers and directors must have been members or clients of another CSO for a minimum of 3 consecutive years.
-
-Everyone who has cryonics arrangements is not necessarily a committed cryonicist. A committed cryonicist is someone who has sought out cryonics, completed the necessary legal and financial arrangements and who remains both signed up and engaged with their cryonics organization over a period of years. Currently, cryonics is infested with individuals whose first contact with cryonics was as a job applicant and who have made cryonics arrangements primarily because it improves their scope of authority and credibility within the organization. Hired hands are just that, hired hands; they don’t get to run the ranch. The scope of authority of such opportunistic cryonicists should be severely limited and they should never occupy core administrative, technical or financial positions within the organization. Failure to follow this dictum has already resulted in embezzlement, fraud and grossly deficient patient care.
+All officers must have been brain preservation members or clients of the organization for a minimum of 5 consecutive years before becoming eligible to serve as a director or officer. In the case of newly forming CSOs, officers and directors must have been members or clients of another CSO for a minimum of 3 consecutive years.
 
 ##### 2.2.3 Regular reviews
 
