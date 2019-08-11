@@ -58,7 +58,7 @@ Please feel free to suggest edits using the ["issue"]( https://github.com/RomanP
 - [5 R&D](#5-rd)
   - [5.1 Prioritization](#51-prioritization)
   - [5.2 Animal research](#52-animal-research)
-
+- [6 Addendum: Brief history of attempts to implement minimum standards in cryonics](#6-addendum-brief-history-of-attempts-to-implement-minimum-standards-in-cryonics)
 
 --------------------------------
 
@@ -312,7 +312,7 @@ On the other hand, if such skills are integrated into an experiment involving a 
 
 Finally, survival experiments are driven by the core values of healthy (non-pathological) human beings. Because of this they have a dual value. First, they provide a powerful incentive for each person participating to their job well and to learn to do it better. Related to this is the understanding which, if not present before the experiment, is painfully present afterwards in the event of failure, that errors cost lives, create terrible and visible tissue/organ injury and can cause immense suffering. Second, such experiments invariably disclose individuals who are either lack the required temperament (too sensitive), are constitutionally incompetent, habitually careless, or suffer from some type of psychopathology – all which disqualify them as Cryopreservation Team members.
 
-### 6 Addendum: Brief history of attempts to create and implement minimum standards in cryonics
+### 6 Addendum: Brief history of attempts to implement minimum standards in cryonics
 
 The first attempt to create formal minimum standards for cryonics organizations in the form of the Cryonics Societies of America (CSA) was initiated by in 1968 and was implemented largely through the efforts of the Cryonics Society of New York and Robert Ettinger. The CSA was to be a national standards and enforcement organization, comprised of representatives elected by the individual, member cryonics societies.
 
