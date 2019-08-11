@@ -334,6 +334,12 @@ In the past, both Case Histories and Case Reports have been difficult and time c
 
 Finally, professional medical transcriptionists are to be used to prepare dictated summaries of cases for subsequent editing where appropriate. The cost of such services has declined dramatically with the advent of outsourcing; using skilled personnel, primarily in India, to transcribe these recordings.
 
+##### 4.3.6 “Whistleblower” policy
+
+The CSO shall establish and implement policies and procedures that enable individuals to come forward with information on illegal practices or violations of organizational policies. 
+
+This “whistleblower” policy should specify that the organization will not retaliate against, and will protect the confidentiality of, individuals who make good-faith reports.
+
 #### 4.4 Non-discrimination
 Cryonics organizations must not discriminate against clients. The medical model of cryonics as an emergency room where all comers able to meet the publicly specified requirements of the organization are well and equally treated regardless of age, religion, politics, criminal history, gender, sexual orientation, community influence or celebrity will be employed. “Equally” is understood to mean here that all clients will receive the same minimum standards of care set out as being available upon meeting the specified minimum requirements of the organization. It does not imply that higher standards of care may not be paid for by clients able to afford them. However, it does mean that if such higher standards are offered or are available for an added fee or other considerations, that all clients shall be apprised of the availability of such non-standard services as soon as such options are made available.
 
