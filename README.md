@@ -158,7 +158,7 @@ The board should review organizational and governing instruments no less frequen
 
 Board members should evaluate their performance as a group and as individuals no less frequently than every 2 years, and should have clear, written procedures for removing board members who are unable to fulfill their responsibilities.
 
-The board of should review its own size and structure periodically. 
+The board should review its own size and structure periodically. 
 
 ##### 2.2.7 Emergency plans
 
