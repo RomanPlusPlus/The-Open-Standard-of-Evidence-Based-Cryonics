@@ -311,3 +311,36 @@ While not pleasant to consider, there are also several other very powerful mecha
 On the other hand, if such skills are integrated into an experiment involving a live animal with survival as the outcome, the focus and the heightened state of emotions and arousal greatly facilitate learning. Such an experiment is, by definition, a narrative process. It begins with a synopsis of the events and a statement of the goals to be achieved. Then each element of the process is both verbalized and experienced as the procedure unfolds. Each part of the procedure is seen (especially with repetition) as relating to others and there is a sense of coherence and mission in a competently conducted survival experiment.
 
 Finally, survival experiments are driven by the core values of healthy (non-pathological) human beings. Because of this they have a dual value. First, they provide a powerful incentive for each person participating to their job well and to learn to do it better. Related to this is the understanding which, if not present before the experiment, is painfully present afterwards in the event of failure, that errors cost lives, create terrible and visible tissue/organ injury and can cause immense suffering. Second, such experiments invariably disclose individuals who are either lack the required temperament (too sensitive), are constitutionally incompetent, habitually careless, or suffer from some type of psychopathology – all which disqualify them as Cryopreservation Team members.
+
+### 6 Addendum: Brief history of attempts to create and implement minimum standards in cryonics
+
+The first attempt to create formal minimum standards for cryonics organizations in the form of the Cryonics Societies of America (CSA) was initiated by in 1968 and was implemented largely through the efforts of the Cryonics Society of New York and Robert Ettinger. The CSA was to be a national standards and enforcement organization, comprised of representatives elected by the individual, member cryonics societies.
+
+Creation of the CSA, and the terms of its incorporation were agreed to by the Officers/Directors of the then extant cryonics organizations: Cryonics Society of New York (CSNY), Cryonics Society of Michigan (CSM) and Cryonics Society of California (CSC). CSA was incorporated late in 1969.
+
+The CSA called for basic accountability in matters such as 
+* public communications
+* information inquiries
+* membership rolls
+* financial and member/patient record keeping (submission of quarterly financial records)
+* documentation of cryopreservations
+* submission of regular progress reports 
+* investigation of all persons or corporations offering cryonics services or promoting cryonics. 
+
+A critical function of the CSA, and the one which may have motivated its initiation, was the creation of a Scientific Advisory Council (SAC) to the CSA. This Board was to have provided scientific and technical advice related to patient care, evaluated research proposals and recommended funding, and lastly and most importantly, serve to improve the public and professional credibility of cryonics. 
+
+The SAC was formed on 05 August, 1968 and the relevant documents as well as its composition were published in Cryonics Reports in September, 1968. The CSA did remain modestly active for perhaps a year after its inception. 
+
+The next attempt to establish industry-wide binding standards was initiated by Fred and Linda Chamberlain of the Alcor Foundation in 1972. The effort had the acronym DOMSAC which stood for "Document of Minimum Standards and Compliance" (DOMSAC). 
+
+The core requirement of the DOMSAC were to: 
+
+"Set minimum standards for all technical aspects of perfusion and cool-down, including data collection formats, parameters to be logged, frequency of data acquisition, minimum equipment and chemicals to be kept on hand at all times, and so on." 
+
+The objectives of the DOMSAC were to:
+* Established a basic standard for organization, reporting and public disclosure of patient case data.
+* Required continuous public accountability (address, identification, a.k.a. and d.b.a. history on all Officers and Directors).
+* Established minimum requirements for emergency notification and communication systems.
+* Limited the scope and nature of claims that could be made to the public or prospective members/clients about cryonics.
+* Impose substantial administrative requirements, as well as mechanics for handling non-compliance and provisions for punitive measures if necessary.
+
