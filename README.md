@@ -82,6 +82,9 @@ The only way to ensure the long-term sustainability of the cryonics effort is to
 As an experimental treatment cryonics is not a religious, philosophical, social, political or other enterprise advocating for any given ideology. As such, it should disconnect itself from the dissemination and promotion of specific social, economic or political ideologies. While a majority of those who opt for cryopreservation may have in common the same beliefs and allegiances, the cryonics organizations should remain agnostic and disconnected in this regard. Governments and religions jealousy guard their roles as the creators and gatekeepers of ideologies and often punish those who trespass on their territory; consider the Falun Gong in China, or abortion clinics in the US.
 
 #### 2.2 Management
+
+##### 2.2.1 General considerations
+
 The Board of Directors of the organization should represent the membership and be selected by the membership. This does not mean that everyone who becomes a member has the right to vote. There are many perils associated with such a system, including the takeover, hostile or otherwise, from outsiders as has already been attempted in several cryonics organisations.
 
 The Board should be selected by members who have a vested interest in the organization. At a minimum, this should mean that they must have remained members with cryopreservation arrangements in good standing for a reasonable period of time, at which time they should be accorded one vote. Several additional classes of membership should exist based on well defined and pre-specified achievements in service and personal education about cryonics which are acquired over time. These members may be given additional votes as a result of this higher level of involvement and vetting. A preliminary proposal for the initial vesting interval is 5 years.
@@ -89,6 +92,14 @@ The Board should be selected by members who have a vested interest in the organi
 Directors can be selected only from the highest, most experienced and well vetted class of members. Additionally, they should undergo thorough background checks to screen not just for criminal behavior, but for financial and personal responsibility and stability. A core objective of such vetting is to screen out sociopathic or psychopathic individuals who would represent a threat to the stability and viability of the organization.
 
 Everyone who has cryonics arrangements is not necessarily a committed cryonicist. A committed cryonicist is someone who has sought out cryonics, completed the necessary legal and financial arrangements and who remains both signed up and engaged with their cryonics organization over a period of years. Currently, cryonics is infested with individuals whose first contact with cryonics was as a job applicant and who have made cryonics arrangements primarily because it improves their scope of authority and credibility within the organization. Hired hands are just that, hired hands; they don’t get to run the ranch. The scope of authority of such opportunistic cryonicists should be severely limited and they should never occupy core administrative, technical or financial positions within the organization. Failure to follow this dictum has already resulted in embezzlement, fraud and grossly deficient patient care.
+
+##### 2.2.2. Emergency plans
+
+The organization must have a detailed, written plan of action to protect its patients in cryopreservation against legal or legislative attack, economic instability, insurgent attack by anti-cryonics individuals or entities, as well as plans to cope with and prevail over known existential risks to which its patients may be subject (i.e., hurricanes, tornadoes, earthquakes, blizzards, etc.).
+
+The organization’s board must ensure that the organization has adequate plans to protect its assets—its property, financial and human resources, programmatic content and material, and its integrity and reputation—against damage or loss. The board should review regularly the organization’s need for general liability and directors’ and officers’ liability insurance, as well as take other actions necessary to mitigate risks.
+
+The organization shall have in place policies and procedures to protect and preserve the organization’s important documents and business records.
 
 #### 2.3 Law
 
