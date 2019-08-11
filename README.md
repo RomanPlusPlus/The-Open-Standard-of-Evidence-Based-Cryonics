@@ -316,6 +316,8 @@ Except in rare instances (and routine matters of client confidentiality) all mat
 ##### 4.3.3 Transparent management
 Make management transparent to members. The reality is that very little of Board business is required to be conducted in camera. Vice thrives in the dark. It is very unlikely that there would have been serious board discussions about switching whole-body members to neuro without their consent had these discussions been held in the sunlight. Transparent Board meetings also expose the quality of management and of its decisions to ongoing scrutiny by the membership.
 
+The CSO shall maintain complete and accurate minutes of all meetings which shall be gathered into volumes organized by month and year. These minutes shall be kept at the CSO's principal place of business and be available for inspection upon the request of any cryopreservation member or client. Additionally, multiple electronic copies shall be kept in discrete separate locations to prevent loss due to existential or other disasters.
+
 ##### 4.3.3 Website
 An organizational website containing detailed resources on every aspect of cryonics is maintained. This website includes an extensive technical library, links to other websites with relevant information, complete contractual paperwork, curriculum vitae of personnel as well as Officers and Directors, SOPs and lay-level descriptions of procedures. Blog-type hypertext linkage should be used if feasible. The website also contains a feedback area where comments from validated clients can be logged indefinitely and viewed by the general public without undue editing, as well as comments from visitors to the site who are not clients. The client’s ID# can serve as his/her password.
 
