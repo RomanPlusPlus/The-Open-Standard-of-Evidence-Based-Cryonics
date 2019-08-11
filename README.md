@@ -93,6 +93,9 @@ Everyone who has cryonics arrangements is not necessarily a committed cryonicist
 #### 2.3 Law
 
 ##### 2.3.1 Regulatory framework
+
+The CSO shall be a legally incorporated entity which complies with all applicable federal laws and regulations, as well as applicable laws and regulations of the states and the local jurisdictions in which it is based or operates. If the organization conducts programs outside the United States, it must also abide by applicable international laws, regulations and conventions that are legally binding on the United States.
+
 Create a comprehensive regulatory framework which is applied both within the organization and outside of it. This regulatory framework should be submitted to the legislature of the state where the cryonics organization is located in order to create a state board for oversight and for punitive measures when negligence or misconduct occurs. Be prepared to pay the costs of this oversight and to incorporate said costs in charges to members and patients. This would be an example of an initially “unforeseen” contingency in cryonics. Sooner or later cryonics will be regulated and with such regulation will come added costs.
 
 ##### 2.3.2 Informed consent of the patient
