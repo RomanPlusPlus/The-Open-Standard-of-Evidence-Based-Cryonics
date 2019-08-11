@@ -321,8 +321,16 @@ An organizational website containing detailed resources on every aspect of cryon
 
 Training and teaching materials are made available to clients who request them at the cost of copying and mailing these materials. In the case of large volumes of material, a reasonable handling fee may be added to the cost of these documents which the client pays.
 
-##### 4.3.4 Financial records
+##### 4.3.4 Financial transparency
 Financial records are maintained by a competent bookkeeper and are reviewed yearly by a licensed CPA. These records are posted on the website and made available as hard copy in a timely fashion to clients who request them.
+
+###### 4.3.4.1 Financial audit
+
+The cryonics organization must keep complete, current, and accurate financial records. Its board should receive and review timely reports of the organization’s financial activities and should have a qualified, independent financial expert audit or review these statements annually in a manner appropriate to the organization’s size and scale of operations.
+
+For cryonics organizations with more than $500,000 U.S. in assets the independent financial expert must be certified public accountant (CPA).
+
+CSOs with assets of $1 million U.S., shall have an audit committee composed of independent board members with appropriate financial expertise. By reducing possible conflicts of interest between outside auditors and the organization’s paid staff, an audit committee can provide the board greater assurance that the audit has been conducted appropriately. If state law permits, the board may appoint non-voting, non-staff advisors, rather than board members, to the audit committee.
 
 ##### 4.3.5 Patient Case Reports and Histories 
 
