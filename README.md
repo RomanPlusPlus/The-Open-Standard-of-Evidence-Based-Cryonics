@@ -239,7 +239,10 @@ The above notwithstanding, CNS material from every patient which has been subjec
 ### 4 Ethical business practices
 
 #### 4.1 Code of Ethics
-The organization has a published Code of Ethics which it pledges to adhere to. This Code of Ethics covers finances, accountability, openness, client rights, patient rights, confidentiality of medical and cryopreservation records, conduct of staff, and basic procedures for filing and adjudicating grievances within the organization by clients/patients.
+
+The organization shall have a formally adopted, written code of ethics with which all of its directors or trustees, staff and volunteers are familiar and to which they adhere and they will adopt and implement policies and procedures to ensure that all conflicts of interest, or the appearance thereof, within the organization and the board are appropriately managed through disclosure, recusal, or other means. 
+
+This Code of Ethics shall cover accountability, finances, openness, client/member rights, patient rights, confidentiality of medical and cryopreservation records, conduct of staff, and basic procedures for filing and adjudicating grievances within the organization by clients/patients and professional employees.
 
 #### 4.2 Ethical advertising
 Stop misleading and deceiving the membership and the public by calling the treatment on offer “vitrification”. Vitrification, in the context of cryobiology and cryonics, means the ice-free preservation of tissues, organs or people. If your CT scans show widespread ice formation in the brains of patients, even when the treatment takes place under optimum conditions, you're not doing vitrification. If you don't measure ice formation, you're not doing vitrification.
