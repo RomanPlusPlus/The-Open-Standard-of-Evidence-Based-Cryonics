@@ -332,6 +332,22 @@ For cryonics organizations with more than $500,000 U.S. in assets the independen
 
 CSOs with assets of $1 million U.S., shall have an audit committee composed of independent board members with appropriate financial expertise. By reducing possible conflicts of interest between outside auditors and the organization’s paid staff, an audit committee can provide the board greater assurance that the audit has been conducted appropriately. If state law permits, the board may appoint non-voting, non-staff advisors, rather than board members, to the audit committee.
 
+###### 4.3.4.2 Soliciting funds
+
+Solicitation materials and other communications addressed to donors and the public must clearly identify the organization and be accurate and truthful.
+
+Without exception, contributions must be used for purposes consistent with the donor’s intent, whether as described in the relevant solicitation materials or as specifically directed by the donor.
+
+The organization, if a 501(c)3, must provide donors with specific acknowledgments of charitable contributions, in accordance with IRS requirements, as well as information to facilitate the donors’ compliance with tax law requirements.
+
+The organization must have clear, written policies, based on its purpose as a CSO to determine whether accepting a gift would compromise its ethics, financial circumstances, program focus, or the well-being of the patients in its care.
+
+The CSO should provide appropriate training and supervision of the people soliciting funds on its behalf to ensure that they understand their responsibilities and applicable federal, state and local laws, and do not employ techniques that are coercive, intimidating, or intended to harass potential donors.
+
+The organization shall not compensate internal or external fundraisers based on a commission or a percentage of the amount raised.
+
+The CSO shall respect the privacy of individual donors and, except where disclosure is required by law, shall not sell or otherwise make available the names and contact information of its donors without providing them an opportunity at least once a year to opt out of the use of their names.
+
 ##### 4.3.5 Patient Case Reports and Histories 
 
 Since each clinical case constitutes an experimental biomedical procedure it must documented, by video and other data recording and reduced a written case report in a comprehensive, consistent and standardized format. Such case reports must be openly published by the cryonics organization. Such reports must be completed and published not to exceed the prespecified deadline set by the organization.
