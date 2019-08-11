@@ -91,7 +91,9 @@ The Board should be selected by members who have a vested interest in the organi
 
 Beyond the requirement of 5 consecutive years as a cryopreservation member or client, the board shall establish clear policies and procedures setting the length of terms and the number of consecutive terms a board member may serve.
 
-##### 2.2.2 Director, officers
+##### 2.2.2 Directors, officers
+
+The board shall hire, oversee, and biannually evaluate the performance of the chief executive officer of the organization, and should conduct such an evaluation prior to any change in that officer’s compensation, unless there is a multi-year contract in force or the change consists solely of routine adjustments for inflation or cost of living.
 
 Directors can be selected only from the highest, most experienced and well vetted class of members. Additionally, they should undergo thorough background checks to screen not just for criminal behavior, but for financial and personal responsibility and stability. A core objective of such vetting is to screen out sociopathic or psychopathic individuals who would represent a threat to the stability and viability of the organization.
 
