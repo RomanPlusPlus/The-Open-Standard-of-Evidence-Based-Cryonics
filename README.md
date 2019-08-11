@@ -101,13 +101,23 @@ The board should have enough members to allow for full deliberation and diversit
 
 The board must include members with the diverse background experience, and organizational and financial skills necessary to advance the organization’s mission. 
 
-##### 2.2.3 Officers
+##### 2.2.3 Independent board members
+
+At least two-thirds of the board members, should be independent. 
+
+Independent members should not: 
+  * be compensated by the organization as employees or independent contractors; 
+  * have their compensation determined by individuals who are compensated by the organization; 
+  * receive, directly or indirectly, material financial benefits from the organization except as a member of the charitable class served by the organization; or 
+  * be related to anyone described above (as a spouse, sibling, parent or child), or reside with any person so described.
+
+##### 2.2.4 Officers
 
 The board shall hire, oversee, and biannually evaluate the performance of the chief executive officer of the organization, and should conduct such an evaluation prior to any change in that officer’s compensation, unless there is a multi-year contract in force or the change consists solely of routine adjustments for inflation or cost of living.
 
 All officers must have been brain preservation members or clients of the organization for a minimum of 5 consecutive years before becoming eligible to serve as a director or officer. In the case of newly forming CSOs, officers and directors must have been members or clients of another CSO for a minimum of 3 consecutive years.
 
-##### 2.2.4 Regular reviews
+##### 2.2.5 Regular reviews
 
 The CSO must have a governing body that is responsible for reviewing and approving the organization’s mission and strategic direction, annual budget and key financial transactions, compensation practices and policies, and fiscal and governance policies.
 
@@ -119,7 +129,7 @@ Board members should evaluate their performance as a group and as individuals no
 
 The board of should review its own size and structure periodically. 
 
-##### 2.2.5 Emergency plans
+##### 2.2.6 Emergency plans
 
 The organization must have a detailed, written plan of action to protect its patients in cryopreservation against legal or legislative attack, economic instability, insurgent attack by anti-cryonics individuals or entities, as well as plans to cope with and prevail over known existential risks to which its patients may be subject (i.e., hurricanes, tornadoes, earthquakes, blizzards, etc.).
 
