@@ -360,6 +360,12 @@ The CSO shall establish clear, written policies for paying or reimbursing expens
 
 The organization shall neither pay for nor reimburse travel expenditures for spouses, dependents or others who are accompanying someone conducting business for the organization unless they, too, are conducting such business.
 
+###### 4.3.4.4 Compensation to board members 
+
+Board members are generally expected to serve without compensation, other than reimbursement for expenses incurred to fulfill their board duties. 
+
+A charitable organization that provides compensation to its board members should use appropriate comparability data to determine the amount to be paid, document the decision and provide full disclosure to anyone, upon request, of the amount and rationale for the compensation.
+
 ##### 4.3.5 Patient Case Reports and Histories 
 
 Since each clinical case constitutes an experimental biomedical procedure it must documented, by video and other data recording and reduced a written case report in a comprehensive, consistent and standardized format. Such case reports must be openly published by the cryonics organization. Such reports must be completed and published not to exceed the prespecified deadline set by the organization.
