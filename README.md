@@ -110,14 +110,32 @@ Independent members should not:
   * have their compensation determined by individuals who are compensated by the organization; 
   * receive, directly or indirectly, material financial benefits from the organization except as a member of the charitable class served by the organization; or 
   * be related to anyone described above (as a spouse, sibling, parent or child), or reside with any person so described.
+  
+##### 2.2.4. Efficient board  
 
-##### 2.2.4 Officers
+The board shall prepare a written job description for individual board members as well as prepare an annual schedule of meetings, determined a year in advance.
+
+The board she see to it its members receive clear and thorough information materials, including an agenda, to all members two to three weeks before each meeting.
+
+Each board member shall serve on at least one board committee or task force. (For new members, one committee assignment is sufficient.)
+
+The board shall prepare written statements of committee and task force responsibilities, guidelines and goals. These organizational documents, which should be approved by the board chair, are to be reviewed annually, and revised if necessary. The CEO shall assign an appropriate staff member to work with each committee
+
+The board shall create a written system of checks and balances to monitor committee members' work and assure that tasks are completed on schedule.
+
+The board shall establish an effective, systematic process for educating and communicating with board members to ensure that they are aware of their legal and ethical responsibilities, are knowledgeable about the programs and activities of the organization, and can carry out their oversight functions effectively.
+
+The board of any cryonics organization that has paid staff should ensure that the positions of chief staff officer, board chair, and board treasurer are held by separate individuals. Organizations without paid staff should ensure that the positions of board chair and treasurer are held by separate individuals.
+
+The organization must meet regularly enough to conduct its business and fulfill its duties.
+
+##### 2.2.5 Officers
 
 The board shall hire, oversee, and biannually evaluate the performance of the chief executive officer of the organization, and should conduct such an evaluation prior to any change in that officer’s compensation, unless there is a multi-year contract in force or the change consists solely of routine adjustments for inflation or cost of living.
 
 All officers must have been brain preservation members or clients of the organization for a minimum of 5 consecutive years before becoming eligible to serve as a director or officer. In the case of newly forming CSOs, officers and directors must have been members or clients of another CSO for a minimum of 3 consecutive years.
 
-##### 2.2.5 Regular reviews
+##### 2.2.6 Regular reviews
 
 The CSO must have a governing body that is responsible for reviewing and approving the organization’s mission and strategic direction, annual budget and key financial transactions, compensation practices and policies, and fiscal and governance policies.
 
@@ -129,7 +147,7 @@ Board members should evaluate their performance as a group and as individuals no
 
 The board of should review its own size and structure periodically. 
 
-##### 2.2.6 Emergency plans
+##### 2.2.7 Emergency plans
 
 The organization must have a detailed, written plan of action to protect its patients in cryopreservation against legal or legislative attack, economic instability, insurgent attack by anti-cryonics individuals or entities, as well as plans to cope with and prevail over known existential risks to which its patients may be subject (i.e., hurricanes, tornadoes, earthquakes, blizzards, etc.).
 
