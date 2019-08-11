@@ -74,7 +74,7 @@ Cryonics has become fear driven and in nearly constant crisis mode. Crises drive
 
 Under such circumstances it is completely understandable for a “bunker mentality” to develop. Further, in order to protect its human cryopatients a cryonics organization may have to develop not only a bunker mentality, but very aggressive and covert means to defend the wellbeing of its patients. Yet, in the long-term, such means have a damaging effect on CSOs and cryonics in general. 
 
-The only way to ensure the long-term sustainability of the cryonics effort is to be open and accountable.  
+The only way to ensure the long-term sustainability of the cryonics effort is to be open and accountable, use the scientific method and Evidence Based Cryonics (EBC), and diligently communicate comprehensive and accurate information to cryonics organization members / clients.
 
 ### 2 Long-term sustainability of CSOs
 
