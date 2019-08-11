@@ -348,6 +348,18 @@ The organization shall not compensate internal or external fundraisers based on 
 
 The CSO shall respect the privacy of individual donors and, except where disclosure is required by law, shall not sell or otherwise make available the names and contact information of its donors without providing them an opportunity at least once a year to opt out of the use of their names.
 
+###### 4.3.4.3 Expenses
+
+The board of the organization must institute policies and procedures to ensure that the organization (and, if applicable, its subsidiaries) manages and invests its funds responsibly, in accordance with all legal requirements. The full board should review and approve the organization’s annual budget and should monitor actual performance against the budget.
+
+The organization shall spend at least 30% of its annual budget on programs that pursue its mission. The budget should also provide sufficient resources for effective administration of the organization, and, if it solicits contributions, for appropriate fundraising activities.
+
+The CSO should not provide loans (or the equivalent, such as loan guarantees, purchasing or transferring ownership of a residence or office, or relieving a debt or lease obligation) to directors, officers, or trustees.
+
+The CSO shall establish clear, written policies for paying or reimbursing expenses incurred by anyone conducting business or traveling on behalf of the organization, including the types of expenses that can be paid for or reimbursed and the documentation required. Such policies should require that travel on behalf of the organization is to be undertaken in a cost-effective manner.
+
+The organization shall neither pay for nor reimburse travel expenditures for spouses, dependents or others who are accompanying someone conducting business for the organization unless they, too, are conducting such business.
+
 ##### 4.3.5 Patient Case Reports and Histories 
 
 Since each clinical case constitutes an experimental biomedical procedure it must documented, by video and other data recording and reduced a written case report in a comprehensive, consistent and standardized format. Such case reports must be openly published by the cryonics organization. Such reports must be completed and published not to exceed the prespecified deadline set by the organization.
